@@ -1,16 +1,39 @@
-## Hi there 👋
+# Привет! 👋 Я LonelyAvon
 
-<!--
-**LonelyAvon/LonelyAvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Бэкенд-разработчик, специализирующийся на Python и современных технологиях для масштабируемых приложений.  
+Люблю чистый код, автоматизацию и открытые проекты.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Мои навыки
+
+**Языки и фреймворки:**
+- 🐍 Python
+- ⚡ FastAPI
+
+**Очереди и обработка задач:**
+- 🐇 RabbitMQ
+- 🍯 Celery
+
+**Кэширование и хранилища:**
+- 🗄️ Redis
+- ☁️ AWS S3 / Minio
+
+**Базы данных:**
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🟦 MS SQL Server
+- 🟪 ChromaDB
+
+---
+
+### 📊 Статистика GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LonelyAvon&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyAvon&layout=compact&theme=radical)  
+
+---
+
+### 🌐 Связаться со мной
+
+- [Telegram](https://t.me/lonelymaple)

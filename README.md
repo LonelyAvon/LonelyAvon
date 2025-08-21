@@ -25,6 +25,11 @@
 - 🟦 MS SQL Server
 - 🟪 ChromaDB
 
+**Инструменты и DevOps:**
+- 🐳 Docker
+- 📦 Docker Compose
+- 🛠️ Sentry
+
 ---
 
 ### 🌐 Связаться со мной

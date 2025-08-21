@@ -27,13 +27,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LonelyAvon&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyAvon&layout=compact&theme=radical)  
-
----
-
 ### 🌐 Связаться со мной
 
 - [Telegram](https://t.me/lonelymaple)
